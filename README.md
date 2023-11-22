@@ -20,8 +20,8 @@ Thanks for checking out my first front end project. This project is a landing pa
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://www.frontendmentor.io/solutions/clipboard-landing-page-5di74Sdlcd](https://www.frontendmentor.io/solutions/clipboard-landing-page-5di74Sdlcd)
-- Live Site URL: [Add live site URL here]([https://asmaatefomran.github.io/Clipboard-landing-page/](https://asmaatefomran.github.io/Clipboard-landing-page/)
+- Solution URL:[https://www.frontendmentor.io/solutions/clipboard-landing-page-5di74Sdlcd](https://www.frontendmentor.io/solutions/clipboard-landing-page-5di74Sdlcd)
+- Live Site URL:[https://asmaatefomran.github.io/Clipboard-landing-page/](https://asmaatefomran.github.io/Clipboard-landing-page/)
 
 ## My process
 
