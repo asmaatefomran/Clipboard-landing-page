@@ -30,6 +30,8 @@ Thanks for checking out my first front end project. This project is a landing pa
 - Semantic HTML5 markup
 - CSS custom properties
 - Tailwind CSS
+- Flexbox
+- CSS grid
 
 ### Continued development
 
